@@ -1,0 +1,13 @@
+[
+    {
+        "call": true,
+        "called": false,
+        "name": "Example",
+        "functionName": "setOwner",
+        "contractName": "Example",
+        "contractAddr": "",
+        "args": [
+            "${Example.address}"
+        ]
+    }
+]

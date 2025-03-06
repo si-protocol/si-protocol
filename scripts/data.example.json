@@ -1,0 +1,13 @@
+{
+  "Example": {
+    "proxy": true,
+    "contractName": "",
+    "address": "",
+    "constructorArgs": [],
+    "upgradeArgs": [],
+    "upgradedAddress": "",
+    "deployed": false,
+    "upgraded": false,
+    "verified": false
+  }
+}
